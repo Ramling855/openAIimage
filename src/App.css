@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+#ram {
+color: brown;
+}
+#ram h1 {
+  background-color: chartreuse;
+
+  }
+
+  #ram p {
+    background-color: rgb(255, 0, 183);
+    
+    }
